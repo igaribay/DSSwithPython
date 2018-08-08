@@ -1,4 +1,4 @@
 # DSSwithPython
-Companion to textbook "Decision Support Systems with Python" 
+Companion to textbook "Introduction to Data Science: Concepts, Techniques and Applications for Scientists and Engineers" 
 
-This repe includes the notebooks from the book " Desicion Support System with Python"
+This repo includes the jupyter notebooks from the book.
