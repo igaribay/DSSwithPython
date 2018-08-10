@@ -4,4 +4,6 @@ for Industrial Engineers, Fall 2018
 
 Directory J-Notebooks contain one subdirectory per week. Each subdirectory contains all files required for that week.
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/igaribay/DSSwithPython/master)
 
+.. image:: https://mybinder.org/badge.svg :target: https://mybinder.org/v2/gh/igaribay/DSSwithPython/master
