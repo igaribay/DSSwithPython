@@ -31,6 +31,8 @@
 
 **J-Notebooks**         : Contains the initial drafts of all notebooks.
 
+**Reference**           : Contains text books and the reference mateiral used for this course.
+
 ### Binder
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/igaribay/DSSwithPython/master) 
