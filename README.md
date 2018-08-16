@@ -1,12 +1,12 @@
-## Course     : Decision Support Systems for Industrial Engineers
-## Code       : ESI 4628
-## Year       : 2018
-## Level      : Undergraduate
-## Department : Industrial Engineering and Management Systems Department
-## College of Engineering and Computer Science, University of Central Florida
+### Course     : Decision Support Systems for Industrial Engineers
+### Code       : ESI 4628
+### Year       : 2018
+### Level      : Undergraduate
+### Department : Industrial Engineering and Management Systems Department
+### College of Engineering and Computer Science, University of Central Florida
 
-### Goals and objectives
-** Goal ** 
+## Goals and objectives
+**Goal** 
 To make student familiar with fundamental methods for building data-driven decision support systems with the popular programming language, Python (https://www.python.org/). In addition, basic decision support methodology will be presented along with modern data science techniques.
 
 ** Objectives **
