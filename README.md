@@ -71,15 +71,15 @@ Homework 2	20%
 Project	60%
 
 Letter grades will be assigned based on the following conversion scheme. 
-...Letter Grade	Numeric Grade
-...A	           90-100
-...A-            87-89
-...B+            84-86
-...B          	 80-83
-...B-            77-79
-...C+            70-73
-...C	           69-65
-...C-            65 and below
+Letter Grade	Numeric Grade
+A	90-100
+A-	87-89
+B+	84-86
+B	80-83
+B-	77-79
+C+	70-73
+C	69-65
+C-	65 and below
 
 ### Policies
 1.	There is no attendance taken.
@@ -100,4 +100,4 @@ The University of Central Florida is committed to providing reasonable accommoda
 ### Financial Aid Disbursements
 All faculty are required to document student’s academic activity at the beginning of each course. In order to document that you began this course, you must participate on-time in all scheduled assignments in Unit 1. Failure to do so will delay financial aid disbursement to which you would otherwise be entitled.
 
-** _The instructor reserves the right to modify the syllabus_**
+* _The instructor reserves the right to modify the syllabus_*
