@@ -14,30 +14,6 @@
 
 + To use the previously learned skills to develop a complete data-driven decision support system for analyzing and modeling a real-world industrial engineering problems.
 
-### Folder Description 
-**DSS-Contents**        : Contains timetable and syllabus of the course
-
-**DSS-Final Projects**  : Contains description and code that is required for students to complete their final project.
-
-**DSS-Week**            : Contians four subfolders namels .pynb_checkpoints, Data, Notebook, Output.
-
-**.pynb_checkpoints**    : Contians same files as the ones in Notebooks, checkpoints are similar files as the original notebooks but are only updated on a manual save. 
-
-**Data**                : Contains required input files for the corresponding notebook files.
-
-**Notebook**            : Contains corresponding notebook files for that week.
-
-**Output**              : Contains output files that are generated from the corresponding notebook files.
-
-**J-Notebooks**         : Contains the initial drafts of all notebooks.
-
-**Reference**           : Contains text books and the reference mateiral used for this course.
-
-### Binder
-
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/igaribay/DSSwithPython/master) 
-https://mybinder.org/v2/gh/igaribay/DSSwithPython/master
-
 ### Course Prerequisites
 + STA 3023 Probability and Statistics for Engineers 
 + COP 3223 High level Computer Programming
@@ -65,6 +41,30 @@ Each team will work on its project throughout the semester. The project delivera
 +	Term Project presentation and presentation document (ppt)
 #### Note
 Each file submitted to any of the assignments must be named to include the identity of both the group and the assignment (e.g., “Group X Homework 1.docx”, “Group Y Term Project Program.ipynb”). Please do not use ZIP files or any form of compressed files for submissions.
+
+### Folder Description 
+**DSS-Contents**        : Contains timetable and syllabus of the course
+
+**DSS-Final Projects**  : Contains description and code that is required for students to complete their final project.
+
+**DSS-Week**            : Contians four subfolders namels .pynb_checkpoints, Data, Notebook, Output.
+
+**.pynb_checkpoints**    : Contians same files as the ones in Notebooks, checkpoints are similar files as the original notebooks but are only updated on a manual save. 
+
+**Data**                : Contains required input files for the corresponding notebook files.
+
+**Notebook**            : Contains corresponding notebook files for that week.
+
+**Output**              : Contains output files that are generated from the corresponding notebook files.
+
+**J-Notebooks**         : Contains the initial drafts of all notebooks.
+
+**Reference**           : Contains text books and the reference mateiral used for this course.
+
+### Binder
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/igaribay/DSSwithPython/master) 
+https://mybinder.org/v2/gh/igaribay/DSSwithPython/master
 
 ### Grading
 Your grade will be based on assignments, and a term project. Course grades are determined by a weighted aggregation of scores earned on each distinct components of the course, as follows:
