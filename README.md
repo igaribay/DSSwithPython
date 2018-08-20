@@ -49,15 +49,11 @@ Each file submitted to any of the assignments must be named to include the ident
 
 **DSS-Week**            : Contians four subfolders namels .pynb_checkpoints, Data, Notebook, Output.
 
-**.pynb_checkpoints**    : Contians same files as the ones in Notebooks, checkpoints are similar files as the original notebooks but are only updated on a manual save. 
-
 **Data**                : Contains required input files for the corresponding notebook files.
 
 **Notebook**            : Contains corresponding notebook files for that week.
 
 **Output**              : Contains output files that are generated from the corresponding notebook files.
-
-**J-Notebooks**         : Contains the initial drafts of all notebooks.
 
 **Reference**           : Contains text books and the reference mateiral used for this course.
 
