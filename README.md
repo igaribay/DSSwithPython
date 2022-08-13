@@ -1,6 +1,6 @@
 ## Course     : Decision Support Systems for Industrial Engineers
 ##### Code       : ESI 4628
-##### Year       : 2018
+##### Year       : 2022
 ##### Level      : Undergraduate
 ##### Department : Industrial Engineering and Management Systems Department
 ##### College of Engineering and Computer Science, University of Central Florida
