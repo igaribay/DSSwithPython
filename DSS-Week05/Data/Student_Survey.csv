@@ -1,0 +1,10 @@
+,Year,Location,Education,Sample_Size,Satisfactory
+0,2017.0,Putnam,Middle School,659.0,Y
+1,2018.0,Lexington,Middle School,649.0,N
+2,2018.0,Lexington,Middle School,435.0,N
+3,2017.0,Berkeley,NaN,NaN,NaN
+4,NaN,Berkeley,High School,228.0,Y
+5,2018.0,Berkeley,Middle School,20.0,NaN
+6,2018.0,Washington,High School,437.0,N
+7,NaN,Tremont,High School,NaN,Y
+8,2016.0,Tremont,High School,220.0,Y
